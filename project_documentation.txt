@@ -1,0 +1,12 @@
+The dataset required handling non-UTF8 encoding and semicolon delimiters, reflecting real-world messy data conditions.
+data source : https://www.kaggle.com/datasets/davidfuenteherraiz/messy-imdb-dataset
+original shape: (101, 12)
+desc datanya di kaggle: 100 film dan 11 rows
+header ngga rapi, 
+['IMBD title ID', 'Original titlÊ', 'Release year', 'Genrë¨', 'Duration', 'Country', 'Content Rating', 'Director', 'Unnamed: 8', 'Income', ' Votes ', 'Score'] -> diubah jadi snake case dan spasi diganti underscore
+ada column namanya 'Unnamed: 8', kolom ini kosong ngga ada datanya, jadi didrop
+count unique judul film 100 tapi datanya 101, berarti ada baris kosong, ini didrop juga
+kolom 'duration' ada 1 cell kosong. diisi pake mode
+kolom 'content_rating' ada 23 cell kosong, ada 1 'Not Rated', ada 1 'Unrated', ada 'Approved'. approved diasumsikan belum dirating. ketiga 'Not Rated', 'Unrated', 'Approved' disamakan semua menjadi "Not Rated". jadi ada 26 "Not Rated"
+kolom 'imdb_title_id' ngga ada outlier. semua sesuai format "tt" lalu 7 digit angka
+kolom 'original_title' ngga ada title aneh (bukan string, terlalu pendek, simbol aneh, atau angka doang). ada 1 sih angka doang film judulnya '1917' tapi setelah dicek itu film betulan keluar tahun 2019
