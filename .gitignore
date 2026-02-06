@@ -1,10 +1,12 @@
 # =========================
 # DATA FILES
 # =========================
-data/raw/
-data/processed/
-*.csv
-*.xlsx
+data/interim/
+# Ignore file laporan di notebooks
+notebooks/IMDB_Data_Cleaning_Report.pdf
+notebooks/IMDB_Data_Cleaning_Report.docx
+project_documentation.txt
+images/
 
 # =========================
 # ENV & SECRETS

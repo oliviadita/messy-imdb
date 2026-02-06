@@ -1,0 +1,101 @@
+imdb_title_id,title,release_date,release_year,duration,country,content_rating,director,income,votes,score,Action,Adventure,Animation,Biographical,Comedy,Crime,Drama,Family,Fantasy,Film-Noir,History,Horror,Music,Musical,Mystery,Romance,Science Fiction,Thriller,War,Western
+tt0111161,the_shawshank_redemption,1995-02-10,1995,142,united_states,R,frank_darabont,28815245,2278845,9.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0068646,the_godfather,1972-09-21,1972,175,united_states,R,francis_ford_coppola,246120974,1572674,9.2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0468569,the_dark_knight,2008-07-23,2008,152,united_states,PG-13,christopher_nolan,1005455211,2241615,9.0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0071562,the_godfather_part_ii,1975-09-25,1975,220,united_states,R,francis_ford_coppola,408035783,1098714,9.0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0110912,pulp_fiction,1994-10-28,1994,136,united_states,R,quentin_tarantino,222831817,1780147,8.9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0167260,the_lord_of_the_rings_the_return_of_the_king,2004-02-22,2004,201,new_zealand,PG-13,peter_jackson,1142271098,1604280,8.9,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0108052,schindler_s_list,1994-03-11,1994,136,united_states,R,steven_spielberg,322287794,1183248,8.9,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+tt0050083,12_angry_men,1957-09-04,1957,96,united_states,Not Rated,sidney_lumet,576,668473,8.9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt1375666,inception,2010-09-24,2010,148,united_states,PG-13,christopher_nolan,869784991,2002816,8.8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0137523,fight_club,1999-10-29,1999,136,united_kingdom,R,david_fincher,101218804,1807440,8.8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0109830,forrest_gump,1994-10-06,1994,142,united_states,PG-13,robert_zemeckis,678229452,1755490,8.8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+tt0120737,the_lord_of_the_rings_the_fellowship_of_the_ring,2002-01-18,2002,178,new_zealand,PG-13,peter_jackson,887934303,1619920,8.8,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0060196,il_buono_il_brutto_il_cattivo,1966-12-23,1966,161,italy,Not Rated,sergio_leone,25252481,672499,8.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+tt0133093,the_matrix,1999-05-07,1999,136,united_states,R,lana_wachowski_lilly_wachowski,465718588,1632315,8.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0167261,the_lord_of_the_rings_the_two_towers,2003-01-16,2003,179,new_zealand,PG-13,peter_jackson,951227416,1449778,8.7,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0080684,star_wars_episode_v_the_empire_strikes_back,1980-09-19,1980,136,united_states,PG,irvin_kershner,549265501,1132073,8.7,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+tt0099685,goodfellas,1990-09-20,1990,146,united_states,R,martin_scorsese,46879633,991505,8.7,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0073486,one_flew_over_the_cuckoo_s_nest,1976-11-18,1976,136,united_states,R,milos_forman,108997629,891071,8.7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0816692,interstellar,2014-11-06,2014,169,united_states,PG-13,christopher_nolan,696742056,1449256,8.6,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0114369,se7en,1995-12-15,1995,127,united_states,R,david_fincher,327333559,1402015,8.6,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+tt0102926,the_silence_of_the_lambs,1991-03-05,1991,118,united_states,R,jonathan_demme,272753884,1234134,8.6,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+tt0076759,star_wars,1977-10-20,1977,121,united_states,PG,george_lucas,775768912,1204107,8.6,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+tt0120815,saving_private_ryan,1998-10-30,1998,169,united_states,R,steven_spielberg,482349603,1203825,8.6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+tt0120689,the_green_mile,2000-10-03,2000,189,united_states,R,frank_darabont,286801374,1112336,8.6,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+tt0317248,cidade_de_deus,2003-05-09,2003,130,brazil,R,fernando_meirelles_katia_lund,30680793,685856,8.6,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0245429,sen_to_chihiro_no_kamikakushi,2003-04-18,2003,125,japan,PG,hayao_miyazaki,355467056,626693,8.6,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tt0118799,la_vita_b9_bella,1997-12-20,1997,116,italy,Not Rated,roberto_benigni,230098753,605648,8.6,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+tt6751668,gisaengchung,2019-11-07,2019,132,south_korea,Not Rated,bong_joon_ho,257604912,470931,8.6,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+tt0038650,it_s_a_wonderful_life,1948-03-11,1948,130,united_states,PG,frank_capra,6130720,388310,8.6,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+tt0047478,shichinin_no_samurai,1955-08-19,1955,207,japan,Not Rated,akira_kurosawa,322773,307958,8.6,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0172495,gladiator,2000-05-19,2000,155,united_states,R,ridley_scott,465361176,1308193,8.5,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0407887,the_departed,2006-10-27,2006,151,united_states,R,martin_scorsese,291465034,1159703,8.5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+tt0482571,the_prestige,2006-12-22,2006,130,united_kingdom,PG-13,christopher_nolan,109676311,1155723,8.5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+tt0088763,back_to_the_future,1985-10-18,1985,116,united_states,PG,robert_zemeckis,388774684,1027330,8.5,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0120586,american_history_x,1999-08-27,1999,119,united_states,R,tony_kaye,23875127,1014218,8.5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0110413,l_on,1995-04-07,1995,110,france,Not Rated,luc_besson,19552639,1007598,8.5,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0103064,terminator_2_judgment_day,1991-12-19,1991,137,united_states,R,james_cameron,520884847,974970,8.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0114814,the_usual_suspects,1995-11-30,1995,106,united_states,R,bryan_singer,23341568,968947,8.4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+tt0110357,the_lion_king,1994-11-25,1994,88,united_states,G,roger_allers_rob_minkoff,968511805,917248,8.4,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt7286456,joker,2019-10-03,2019,122,united_states,Not Rated,todd_phillips,1074251311,855097,8.4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+tt1675434,intouchables,2012-02-24,2012,112,france,Not Rated,olivier_nakache_eric_toledano,426588510,736691,8.4,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0253474,the_pianist,2002-10-25,2002,150,united_kingdom,R,roman_polanski,120072577,707942,8.4,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+tt2582802,whiplash,2015-02-12,2015,106,united_states,R,damien_chazelle,48983260,690732,8.4,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+tt0054215,psycho,1960-10-28,1960,109,united_states,R,alfred_hitchcock,32008644,586765,8.3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+tt0034583,casablanca,2046-11-21,2046,102,united_states,PG,michael_curtiz,4374761,509953,8.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+tt0064116,c_era_una_volta_il_west,1968-12-21,1968,165,italy,PG-13,sergio_leone,112911,295220,8.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+tt0095327,hotaru_no_haka,2015-10-11,2015,89,japan,Not Rated,isao_takahata,516962,225438,8.3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+tt0095765,nuovo_cinema_paradiso,1988-11-17,1988,155,italy,Not Rated,giuseppe_tornatore,13826605,223050,8.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0027977,modern_times,1937-03-12,1937,87,united_states,G,charles_chaplin,457688,211250,8.3,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+tt1345836,the_dark_knight_rises,2012-08-29,2012,164,united_kingdom,PG-13,christopher_nolan,1081133191,1480582,8.3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt1853728,django_unchained,2013-01-17,2013,165,united_states,R,quentin_tarantino,425368238,1317856,8.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+tt0209144,memento,2001-01-19,2001,113,united_states,R,christopher_nolan,39970386,1098879,8.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+tt0910970,wall_e,2008-10-17,2008,98,united_states,G,andrew_stanton,521311860,974734,8.2,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tt0081505,the_shining,1980-12-22,1980,146,united_kingdom,R,stanley_kubrick,46520613,869480,8.2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+tt0082971,raiders_of_the_lost_ark,1981-06-12,1981,115,united_states,PG,steven_spielberg,390133212,865510,8.2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt4154756,avengers_infinity_war,2018-04-25,2018,149,united_states,Not Rated,anthony_russo_joe_russo,2048359754,796486,8.2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0078748,alien,1979-10-25,1979,117,united_kingdom,R,ridley_scott,108110316,768874,8.2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+tt4154796,avengers_endgame,2019-04-24,2019,181,united_states,Not Rated,anthony_russo_joe_russo,2797800564,754786,8.2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0078788,apocalypse_now,1979-12-18,1979,147,united_states,R,francis_ford_coppola,91968688,591251,8.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+tt0364569,oldeuboi,2005-05-06,2005,120,south_korea,R,chanwook_park,15002116,501082,8.1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+tt0057012,dr_strangelove_or_how_i_learned_to_stop_worrying_and_love_the_bomb,1964-04-03,1964,95,united_kingdom,PG,stanley_kubrick,9443876,441115,8.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0047396,rear_window,1955-04-14,1955,112,united_states,Not Rated,alfred_hitchcock,37032034,432390,8.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+tt2380307,coco,2017-12-28,2017,105,united_states,Not Rated,lee_unkrich_adrian_molina,807083670,352455,8.1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tt0405094,das_leben_der_anderen,2007-04-06,2007,137,germany,R,florian_henckel_von_donnersmarck,77356942,349642,8.1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+tt4633694,spider_man_into_the_spider_verse,2018-12-25,2018,117,united_states,Not Rated,bob_persichetti_peter_ramsey,375540831,335892,8.1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt1187043,3_idiots,2009-12-25,2009,170,india,Not Rated,rajkumar_hirani,60262836,332217,8.1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0119698,mononoke_hime,2000-05-19,2000,134,japan,PG-13,hayao_miyazaki,169785629,331045,8.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+tt0087843,once_upon_a_time_in_america,1984-09-28,1984,229,united_states,R,sergio_leone,5472914,302317,8.0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0032553,the_great_dictator,1945-06-25,1945,125,united_states,Not Rated,charles_chaplin,969879,197381,8.0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+tt0043014,sunset_blvd,1951-03-06,1951,110,united_states,Not Rated,billy_wilder,299645,195789,8.0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+tt0361748,inglourious_basterds,2009-10-02,2009,153,germany,R,quentin_tarantino,321455689,1229958,8.0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+tt0169547,american_beauty,2000-01-21,2000,122,united_states,R,sam_mendes,356296601,1049009,8.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0112573,braveheart,1995-12-01,1995,178,united_states,R,mel_gibson,213216216,941683,7.9,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+tt0086190,star_wars_episode_vi_return_of_the_jedi,1983-10-21,1983,131,united_states,PG,richard_marquand,475347111,928036,7.9,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+tt0105236,reservoir_dogs,1992-10-09,1992,99,united_states,R,quentin_tarantino,2889963,896551,7.9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+tt0338013,eternal_sunshine_of_the_spotless_mind,2004-10-22,2004,108,united_states,R,michel_gondry,74036715,889875,7.9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
+tt0114709,toy_story,1996-03-22,1996,81,united_states,G,john_lasseter,404265438,864461,7.9,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0119217,good_will_hunting,1998-03-06,1998,126,united_states,R,gus_van_sant,225933435,837379,7.8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+tt0208092,snatch,2001-03-16,2001,104,united_kingdom,R,guy_ritchie,83557872,766589,7.8,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0180093,requiem_for_a_dream,2000-12-15,2000,102,united_states,R,darren_aronofsky,7390108,748291,7.8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0066921,a_clockwork_orange,1972-09-07,1972,136,united_kingdom,Not Rated,stanley_kubrick,26903440,740301,7.8,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0435761,toy_story_3,2010-07-07,2010,103,united_states,G,lee_unkrich,1066969703,739717,7.8,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0086250,scarface,1983-12-09,1983,170,united_states,R,brian_de_palma,66023585,721343,7.8,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0075314,taxi_driver,1976-02-08,1976,114,united_states,R,martin_scorsese,28441292,703264,7.7,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0211915,le_fabuleux_destin_d_am_lie_poulain,2002-01-25,2002,122,france,R,jeanpierre_jeunet,173924742,690480,7.7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+tt0093058,full_metal_jacket,1987-10-09,1987,116,united_kingdom,Not Rated,stanley_kubrick,46357676,658175,7.7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+tt0090605,aliens,1986-09-24,1986,137,united_states,R,james_cameron,131384634,639500,7.7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0062622,2001_a_space_odyssey,1968-12-12,1968,149,united_kingdom,G,stanley_kubrick,68989547,587866,7.6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+tt0033467,citizen_kane,1948-11-25,1948,119,united_states,Not Rated,orson_welles,1594107,389322,7.6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+tt8579674,1917,2020-01-23,2020,119,united_states,Not Rated,sam_mendes,384857224,362897,7.6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+tt0086879,amadeus,1985-02-15,1985,160,united_states,R,milos_forman,52066791,361028,7.6,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+tt0052357,vertigo,1958-11-18,1958,128,united_states,Not Rated,alfred_hitchcock,7796389,352786,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+tt0053125,north_by_northwest,1959-10-28,1959,136,united_states,Not Rated,alfred_hitchcock,73446,291628,7.5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+tt2106476,jagten,2012-11-22,2012,115,denmark,R,thomas_vinterberg,15843274,269616,7.5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0056172,lawrence_of_arabia,1963-10-29,1963,228,united_kingdom,PG,david_lean,45710874,261504,7.5,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0070735,the_sting,1974-03-21,1974,129,united_states,PG,george_roy_hill,156000000,236285,7.5,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0082096,das_boot,1982-03-18,1982,149,germany,R,wolfgang_petersen,11487676,226427,7.5,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+tt0059578,per_qualche_dollaro_in_pi,1965-12-20,1965,132,italy,Not Rated,sergio_leone,15000000,226039,7.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+tt1832382,jodaeiye_nader_az_simin,2011-10-21,2011,123,iran,PG-13,asghar_farhadi,22926076,214165,7.4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+tt0045152,singin_in_the_rain,1953-02-05,1953,103,united_states,Not Rated,stanley_donen,1864182,213152,7.4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
